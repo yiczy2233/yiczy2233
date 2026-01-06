@@ -1,10 +1,11 @@
-# Hi ⚡ I'm Zoey Cai
-### Unity Engine Developer | Indie Game Creator | Concept Artist
-
 <p align="left">
-  <img src="./Assets/banner.png" alt="Banner" width="100%" />
+  <img src="./Assets/index.png" alt="Banner" width="100%" />
   <br>
 </p>
+
+### Unity Engine Developer 
+
+
 
 - 🎮 **Currently working on:** A private Indie Game project built with Unity.
 - 🌱 **Learning Path:** Transitioning into **JavaScript** and **Web Technologies** to explore WebGL and hybrid game apps.
