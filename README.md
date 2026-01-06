@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# 嗨，我是 [yiczy2233] 👋
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yiczy2233&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiczy2233&layout=compact&theme=radical)
+
 <!--
 **yiczy2233/yiczy2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
