@@ -18,6 +18,13 @@ mindmap
     开发工具
       VS Code
       Obsidian
+
+#### C. 社交/联系方式（徽章风格）
+使用 [Shields.io](https://shields.io/) 生成漂亮的徽章：
+```markdown
+[![Bilibili](https://img.shields.io/badge/Bilibili-关注我-fb7299?style=flat-square&logo=bilibili)](你的链接)
+[![E-mail](https://img.shields.io/badge/Email-联系我-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:your-email@example.com)
+
 <!--
 **yiczy2233/yiczy2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
