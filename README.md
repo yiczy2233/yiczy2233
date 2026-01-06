@@ -5,7 +5,7 @@
 
 
 
-I make games and draw cool pictures. <a href="[你的个人网页地址](https://yiczy2233.github.io)">Click here to my website.</a>
+I make games and draw cool pictures. <a href="https://yiczy2233.github.io">Click here to my website.</a>
 
 ### About me
 💼 **Game Maker:** I use Unity to build my own games.
