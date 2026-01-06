@@ -2,7 +2,8 @@
 ### Unity Engine Developer | Indie Game Creator | Concept Artist
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="./Assets/banner.png" alt="Banner" width="100%" />
+  <br>
 </p>
 
 - 🎮 **Currently working on:** A private Indie Game project built with Unity.
