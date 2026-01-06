@@ -1,4 +1,4 @@
-# 👨‍💻 [你的名字] | Technical Artist & Digital Twin Developer
+# 👨‍💻 [Zoey Cai[ | Technical Artist & Digital Twin Developer
 
 > **"Elegance is the art of concealing complexity behind simplicity."**
 > *—— 将复杂的数字孪生逻辑，转化为简约的交互视觉。*
@@ -6,7 +6,7 @@
 ---
 
 ## 🏗️ 职业特质 (Professional Focus)
-我致力于在 **工业 4.0** 与 **数字孪生** 领域寻找技术与美学的平衡。通过 Unity 与 WebGL 技术，将复杂的物理世界（如智慧粮库）映射为直观、优雅的数字世界。
+我致力于在 **工业 4.0** 与 **数字孪生** 领域寻找技术与美学的平衡。通过 Unity 与 WebGL 技术，将复杂的物理世界映射为直观、优雅的数字世界。
 
 - 🎓 **Unity 开发者**: 专注 WebGL 端的数字孪生性能优化。
 - 🎨 **视觉构建者**: 熟练使用 Blender 进行工业建模，追求 PBR 材质下的极简工业风。
