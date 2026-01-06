@@ -1,4 +1,4 @@
-# 👨‍💻 [Zoey Cai[ | Technical Artist & Digital Twin Developer
+# 👨‍💻 Zoey Cai | Technical Artist & Digital Twin Developer
 
 > **"Elegance is the art of concealing complexity behind simplicity."**
 > *—— 将复杂的数字孪生逻辑，转化为简约的交互视觉。*
