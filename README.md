@@ -1,13 +1,11 @@
 <p align="left">
-  <a href="你的个人网页地址">
     <img src="./Assets/banner.svg" alt="Banner" width="100%" />
-  </a>
   <br>
 </p>
 
 
 
-I make games and draw cool pictures.
+I make games and draw cool pictures. <a href="你的个人网页地址">Click here to my website.</a>
 
 ### About me
 💼 **Game Maker:** I use Unity to build my own games.
